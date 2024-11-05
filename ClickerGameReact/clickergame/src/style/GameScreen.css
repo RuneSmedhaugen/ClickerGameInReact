@@ -4,8 +4,8 @@
         opacity: 1;
     }
     100% {
-        transform: translateY(-200px); /* Adjust based on character's vertical position */
-        opacity: 0; /* Fade out as it reaches the character */
+        transform: translateY(-200px); 
+        opacity: 0;
     }
 }
 
@@ -16,8 +16,8 @@
 }
 
 .item-image {
-    width: 50px; /* Adjust width as needed */
+    width: 50px; 
     height: auto;
-    max-height: 50px; /* Set maximum height if needed */
-    object-fit: contain; /* Ensures the image scales well without distortion */
+    max-height: 50px; 
+    object-fit: contain;
 }
