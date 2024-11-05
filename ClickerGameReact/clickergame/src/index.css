@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.z-index-top {
+  z-index: 10; /* Or any number that suits your layout */
+}
+
